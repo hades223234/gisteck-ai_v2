@@ -1,0 +1,7 @@
+sudo dpkg -i gconf2-common_3.2.6-6ubuntu1_all.deb
+
+sudo dpkg -i libgconf-2-4_3.2.6-6ubuntu1_amd64.deb
+
+sudo apt --fix-broken install
+
+sudo dpkg -i roboware-studio_1.2.0-1524709819_amd64.deb
